@@ -23,7 +23,7 @@
 <!-- Связь -->
 ## 📫 Как связаться со мной
 
-- Электронная почта: [ваша_электронная_почта](mailto:alitryel@yandex.ru)
+- Электронная почта: [yandex](mailto:alitryel@yandex.ru)
 - VK: [@alitryel](https://vk.com/alitryelf)
 - Telegram: [@alitryel](https://t.me/alitryel)
 
