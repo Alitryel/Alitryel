@@ -17,6 +17,8 @@
 
 - [pythonBotForVideoMessageToText](https://github.com/Alitryel/pythonBotForVideoMessageToText) - писал его для себя, чтоб скидывать кружочки из бесед, которые не хочу/могу смотреть, пытался привязать форматирование текста, но к сожалению Sliero не удалось завести, а остальные варианты - мне не подходили.
 - [CombinerForCrypto](https://github.com/Alitryel/CombinerForCrypto) - инструментарий для проверки балансов на огромном количестве аккаунтов в два клика. Поддерживаемые сети: Polygon, Arbitrum, Fantom, Optimism, Base, ZkvemPolygon, Avalance, Binance, Ethereum, Celo, Zksync, Core. В будущем, хочется доработать до комбайна, который будет иметь и другой функционал.
+- [JavaSwitchTray](https://github.com/Alitryel/JavaSwitchTray) - простенькое приложение для смены версии Java в два клика, особой документации писать смысла нет, код простой и понятный.
+- [ReplayParseBFME](https://github.com/Alitryel/ReplayParseBFME) - попытка реализовать логику парсинга реплеев из игры BFME и BFME2, в стадии ранней разработки из-за отсутствия опыта работы с HEX и отсутствия какой-либо документации для парсинга.
 
 Со временем будут дополняться...
 
